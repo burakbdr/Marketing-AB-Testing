@@ -1,1 +1,1 @@
-# Marketing-A-B-Testing
+# Marketing-AB-Testing
